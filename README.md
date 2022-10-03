@@ -1,4 +1,1 @@
 # laba2
-
-
-sozdal!
